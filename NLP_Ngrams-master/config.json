@@ -1,0 +1,8 @@
+{
+    "files":{
+        "truthful_train":"truthful.txt",
+        "deceptive_train":"deceptive.txt",
+        "test":"test.txt",
+		"validation":"truthful_validation.txt"
+		}
+}
